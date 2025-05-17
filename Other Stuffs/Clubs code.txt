@@ -1,0 +1,64 @@
+1. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Delve into the captivating world of anime at Anime Hub. Connect, discuss, and share your passion in our vibrant community.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Animeverse.jpg', 'Animeverse', 'ACTIVE');
+
+2. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Experience vibrant connections at Social Club. Engage in fun activities, make new friends, and explore shared interests within an energetic community.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/The%20Social%20Circle.jpg', 'The Social Circle', 'ACTIVE');
+
+3. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Engage in lively debates and discussions on key political issues. Connect with passionate individuals in our vibrant and informed community.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/The%20Forum.jpg', 'The Forum', 'ACTIVE');
+
+4. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Unleash your creativity at Art Club. Connect with fellow artists, share ideas, and explore various forms of artistic expression in our vibrant community.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Artistry.jpg', 'Artistry', 'ACTIVE');
+
+5. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Immerse yourself in the world of words at Literature Club. Share your love for books, engage in thoughtful discussions, and explore diverse genres with fellow readers.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Literati.jpg', 'Literati', 'ACTIVE');
+
+6. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Join Sports Club to fuel your passion for athletics. Engage in exciting games, stay active, and connect with fellow sports enthusiasts in a dynamic community.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Arena%2011.jpg', 'Arena 11', 'ACTIVE');
+
+7. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Dive deep into analysis at Critics Club. Share insightful critiques, explore various forms of media, and engage in thoughtful discussions with a community of keen observers.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/The%20Critics%20Corner.jpg', 'The Critics Corner', 'ACTIVE');
+
+8. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Unleash your inner chef at Culinary Club. Explore diverse cuisines, share recipes, and indulge in the art of cooking with fellow food lovers.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Gourmet%20Haven.jpg', 'Gourmet Haven', 'ACTIVE');
+
+9. NSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Capture lifes moments at Photography Club. Share your work, learn new techniques, and connect with others passionate about photography.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Shutter%20Lens.jpg', 'Shutter Lens', 'ACTIVE');
+
+10. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Explore the latest advancements in technology. Join fellow tech enthusiasts to share ideas, collaborate, and innovate in our dynamic community.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Tech%20Innovators.jpg', 'Tech Innovators', 'ACTIVE');
+
+11. NSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Join Eco Warriors Club to make a difference. Engage in sustainable practices, raise awareness, and connect with like-minded environmental advocates.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/EcoPioneers.jpg', 'EcoPioneers', 'ACTIVE');
+
+12. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Enter the world of gaming at Gaming Guild. Play, discuss, and explore new games with fellow gamers in a fun and competitive environment.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/The%20Guild.jpg', 'The Guild', 'ACTIVE');
+
+13. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Stay active and motivated at Fitness Fanatics Club. Share workout tips, track progress, and connect with fellow fitness enthusiasts in a supportive environment.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Fit%20Nation.jpg', 'Fit Nation', 'ACTIVE');
+
+14. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Join the Community Club to connect, collaborate, and contribute. Engage in meaningful discussions, share insights, and support each other''s growth in a friendly environment.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/The%20Commune.jpg', 'The Commune', 'ACTIVE');
+
+15. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Embark on new adventures with Travel Explorers Club. Share travel stories, discover hidden gems, and connect with fellow wanderlust-driven individuals.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Wanderlust%20Chronicles.jpg', 'Wanderlust Chronicles', 'ACTIVE');
+
+
+16. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Celebrate the magic of cinema at Reel Talk. Discuss films, share reviews, and connect with fellow movie lovers in a vibrant community of film enthusiasts.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Reel%20Talk.jpg', 'Reel Talk', 'ACTIVE');
+
+17. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Immerse yourself in rhythm at Cadence Crew. Explore diverse genres, share favorite tracks, and connect with fellow music lovers in a harmonious community.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Cadence%20crew.jpg', 'Cadence Crew', 'ACTIVE');
+
+18.INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Nurture your entrepreneurial spirit at Idea Incubator. Share innovative ideas, discuss business strategies, and connect with future changemakers in a dynamic community.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Idea%20Incubator.jpg', 'Idea Incubator', 'ACTIVE');
+
+19. INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Explore the wonders of the universe at Cosmic Minds. Dive into scientific discoveries, discuss space exploration, and connect with curious minds in a community of explorers.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Cosmic%20Minds.jpg', 'Cosmic Minds', 'ACTIVE');
+
+20.INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Find balance and tranquility at Zen Space. Explore mindfulness practices, promote wellness, and connect with others on a journey toward inner peace and well-being.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/Zen%20Space.jpg', 'Zen Space', 'ACTIVE');
+
+21.INSERT INTO club (capacity, created_at, description, image_url, name, status)
+VALUES (105, NOW(), 'Delve into profound questions at The Abyssal Guild. Explore dark philosophy, confront existential ideas, and connect with thinkers drawn to lifes deeper enigmas.', 'https://hzcswekjrpilxjplqdnw.supabase.co/storage/v1/object/public/club_profiles/The%20Abyssal%20Guild.jpg', 'The Abyssal Guild', 'ACTIVE');
+
